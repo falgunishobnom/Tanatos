@@ -3,7 +3,9 @@ Written by:
 Md.Raghib Noor
 Email:caesar.rpmc@gmail.com
 */
-
+.design_wrapper {
+  margin-top: 81px;
+}
 @media (max-width: 767px) {
   /* slider part start */
   /* top bar start */
@@ -156,9 +158,6 @@ Email:caesar.rpmc@gmail.com
   /* top bar end */
 
   /* slider part end */
-  .design_wrapper {
-    margin-top: 81px;
-  }
   .design_wrapper
     > .row
     > .design
