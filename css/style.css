@@ -156,7 +156,9 @@ Email:caesar.rpmc@gmail.com
   /* top bar end */
 
   /* slider part end */
-
+  .design_wrapper {
+    margin-top: 81px;
+  }
   .design_wrapper
     > .row
     > .design
